@@ -1,4 +1,14 @@
-## Hi there 👋
+## About Me 👨🏻‍💻
+ Hi, I am Daksh Sharma, I write code that works, scales, and occasionally impresses my rubber duck. 
+ 
+Building cool stuff with modern tech—one commit at a time.
+
+## 📊 Github Stats:
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=DSdoesVS)](https://github.com/DSdoesVS/github-readme-stats)
+
+## Github Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=DSdoesVS)](https://github.com/DSdoesVS/github-profile-trophy)
 
 <!--
 **DSdoesVS/DSdoesVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
